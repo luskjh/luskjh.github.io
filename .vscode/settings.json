@@ -4,5 +4,10 @@
     "editor.defaultFormatter": "vscode.json-language-features",
     "editor.formatOnSave": true,
     "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.rulers": [
+      72
+    ]
   }
 }
