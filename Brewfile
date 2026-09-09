@@ -1,6 +1,5 @@
 brew "git"
 brew "go"
-brew "gomplate"
 brew "opencode"
 brew "postgresql@18", link: true, restart_service: true
 brew "pnpm"
