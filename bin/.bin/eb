@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-nvim "$HOME/Code/dotfiles/Brewfile"
+vim "$HOME/Code/dotfiles/Brewfile"
 
