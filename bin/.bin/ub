@@ -4,4 +4,3 @@ BREWFILE="$HOME/Code/dotfiles/Brewfile"
 
 brew bundle install --upgrade --file "$BREWFILE"
 brew bundle cleanup --force --file "$BREWFILE"
-

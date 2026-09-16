@@ -30,4 +30,3 @@ the non-templated version in `.gitignore`.
 
 [1pass-cli]: //www.1password.dev/cli
 [stow]: //www.gnu.org/software/stow/manual/stow.html
-

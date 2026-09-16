@@ -12,4 +12,3 @@ stow: inject
 		stow -t $(HOME) -D $$p; \
 		stow -t $(HOME) --ignore='\.tpl$$' -R $$p; \
 	done
-
